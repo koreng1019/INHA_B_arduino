@@ -28,6 +28,12 @@ $ influx
 확인 : show databases 
 ```
 
+## influxdb import with python
+
+```
+pip install influxdb
+```
+
 
 
 
